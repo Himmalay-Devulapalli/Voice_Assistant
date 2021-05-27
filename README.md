@@ -5,9 +5,9 @@ This is a python based application build for automation and to control your comp
 
 # Modules Used 
 
-speech_recognition
-win32com
-time
+speech_recognition\
+win32com\
+time\
 webbrowser
 os
 playsound
