@@ -1,0 +1,203 @@
+open "something " or browse "something" or search " something " ->assistant will  search in internet by default 
+open  "something" in google --> assistant will open in google  
+open  "something" in youtube --> assistant will open in youtube  
+ 
+
+open settings  ->assistant will open settings 
+
+display settings ->assistant will open display settings
+
+other devices ->assistant will  shows other bluetooth devices
+
+volume settings ->assistant will open volume settings
+
+clipboard settings ->assistant will open clipboard settings
+
+notification settings ->assistant will open notification settings
+
+battery settings ->assistant will open battery serttings
+
+multitasking settings ->assistant will open screen sharing settings 
+
+remote desktop settings ->assistant will open remote desktop (used to control pc from other devices )
+
+bluetooth settings ->assistant will open bluetooth settings
+
+wi-fi ->assistant will show available wifi devices 
+
+network settings ->assistant will open network serttings 
+
+aeroplane mode->assistant will open aeroplane mode settings and turn on/off aeroplane mode
+
+desktop settings ->assistant will open wallpaper and themes settings 
+
+uninstall apps ->assistant will open list of apps in pc to uninstall
+
+optional features -> assistant will open additional windows features
+
+start camera ->opens camera
+
+close camera ->tursn off camera
+
+calculator -> assistant will open calculator
+
+c drive -> assistant will open C drive
+
+paint ->assistant will open paint
+
+math input panel ->assistant will open math input panel
+
+quick access - >assistant will open quick access folder 
+
+remote dekstop->assistant will open remote desktop connnection panel 
+
+snipping tool->assistant will open snipping tool 
+
+steps recorder->assistant will open steps recorder (used to create tutorials with screenshots)
+
+send fax -> used to send fax
+
+scan->used to scan 
+
+media player ->assistant will open media player
+
+wordpad ->assistant will open wordpad
+
+component service ->assistant will open component service 
+
+computer management ->assistant will open computer management
+
+optimise drivers  ->optimise drivers 
+
+disk clean up ->assistant will open disk cleaner 
+
+event viewer ->assistant will open event viewer 
+
+performance monitor->to know your pc performance 
+
+print management ->assistant will open print settings 
+
+recovery drive -> create a recovery drive and recover your pc 
+
+registry ->assistant will open registry
+
+resource monitor -> assistant will open resource monitor 
+
+system configuration ->assistant will open startup ands boot serttings
+
+system information -> assistant will open pc details 
+
+task scheduler -> assistant will open task scheduler (crete a task to  run on ur pc)
+
+windows firewall->assistant will open firewall settings
+
+system memory ->assistant will open memory details 
+
+command prompt-> assistant will open command prompt 
+
+control panel ->assistant will open control panel
+
+file explorer->assistant will open file explorer or my computer 
+
+run - >assistant will open run (windows + r )
+
+documents folder ->assistant will open  default documents folder 
+
+pictures folder -> assistant will open default picturs folder 
+
+music folder -> assistant will open default music folder 
+
+videos folder ->assistant will open default videos folder 
+
+share files -> share files via bluetooth
+
+fax and scan setings ->assistant will open fax and scan settings
+
+one drive -> assistant will open one drive
+
+magnifier -> assistant will open magnifier 
+
+virtual keyboard -> assistant will open virtual keyboard
+
+internet explorer ->assistant will open internet explorer 
+
+notepad ->assistant will open notepad
+
+powershell ->assistant will open powershell
+
+show desktop ->assistant will minimize all tabs 
+
+show all tabs -> assistant will show all tab and windows 
+ 
+edge -> assistant will open microsoft edge 
+
+show downloads folder ->assistant will open default downloads folder 
+
+show favourites folder -> assistant will open default favourites folder 
+_______________________________________________________________
+take a note 
+make a note
+                         -> assistant will open notepad
+note down
+note 
+_______________________________________________________________
+shutdown -> assistant will shutdown the pc 
+
+restart / reboot -> assistant will restart pc 
+
+log out ->assistant will logout pc
+
+lock ->assistant will lock the pc 
+
+take screenshot -> assistant will take a screenshot and save it on desktop
+
+brightness [brightness value] -> assistant will set brightness to the given value 
+
+my pc is slow -> assistant will clean recycling bin and temp files 
+
+send email /send mail/mail -> assistant will open your mail 
+
+show start menu - > assistant will  open start menu 
+
+iam bored -> voice assistant will suggest you  the few wonderful things it can do  for you  
+
+riddle -> assistant will tell you a riddle 
+
+joke ->assistant will tell you a joke 
+
+facts -> assistant will tell you some facts 
+
+play a game /play game -> assistant will open browser with cool games 
+
+order food -> assistant will open food devilery apps  in browser 
+
+shopping ->assistant will open shopping apps in browser 
+
+youtube -> assistant will open youtube
+
+movie/filim/watch movie/watch filim -> assistant will open movie suggestions in browser   
+
+recollect memories -> assistant will open pictures folder 
+
+new places/where to go -> assistant will suggest places around you to visit
+	
+new events/upcoming events -> assistant will suggest upcomming events near you 
+
+news -> assistant will suggest lates news
+
+pay bills /pay/bills -> assistant will browser to pay bills 
+	 
+show start menu /start /start menu -> assistant will open start menu 
+
+sing a song -> assistant will sing a song for you 
+
+pull out cd drive /cd rom ->assistant will open cd drive 
+
+make a schedule - > assistant will note down you schedules 
+
+what are my schedules ->  assistant will  respoond with the schedules if added 
+
+
+*****assistant  can also reply with the general questions like location of a country,restaurants around you,
+and other general questions like  president of a country , information about a person,etc *****
+  
