@@ -31,4 +31,5 @@ To trigger the Assistant you need to double press the ctrl button on your keyboa
 The Assistant will activate and wait for your command. Each time you want to use the Assistant double press the assistant and it will listen.
 Refer to commands.txt file for the commands list.
 
-
+# Video  Demo 
+https://drive.google.com/file/d/18YV5kTFy-qek4AmVSzFattqoGSuXCKlO/view?usp=sharing
